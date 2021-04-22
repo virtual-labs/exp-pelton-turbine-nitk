@@ -167,7 +167,7 @@ function checkResult()
 	}
 	else if(simsubscreennum == 6 && resultCount == 3)
 	{
-		compareVal = values[x][lnt][13];
+		compareVal = values[x][lnt][14];
 		checkUnit = "W";
 	}
 	else if(simsubscreennum == 6 && resultCount == 4)
