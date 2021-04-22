@@ -5,7 +5,7 @@
 <b>Lab</b> | <b> Fluid Machinery Lab</b>
 <b> Experiment</b> |     <b> 5. Performance Characteristics of Pelton Turbine</b>
 
-<h5> About the Lab (Objective) : </h5>
+<h5> About the Lab (Aim/Objective) : </h5>
 
 Many of our daily life activity depends on fluid machinery so it is important to understand the functioning principles and characteristics of such machinery from an engineering point of view. This lab focuses on giving the user idea about practical behavior of such machines before performing operations on a real system.
 
@@ -40,6 +40,7 @@ Following are the courses in which one can come across the theory connected to t
 #### Mentor Details
 
 <b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+:--|:--|
 :--|:--|
 
 
