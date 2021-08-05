@@ -11,11 +11,11 @@
 	"question": "The unit discharge through the hydraulic. turbine is",
 	"answers": {
 		"a": "Q/√H",
-		"b": " Q/H",
+		"b":" Q/H",
 		"c": "Q/H<sup>2</sup>",
 		"d": "Q/H<sup>3/2</sup>"
 	},
-	"correctAnswer": "d"
+	"correctAnswer": "a"
 }, {
 	"question": "Multiple jets are used in pelton wheel for",
 	"answers": {
@@ -30,17 +30,17 @@
 	"answers": {
 		"a": "Guide wheel",
 		"b": "Brake nozzle",
-		"c": "Diffuser",
+		"c": "Deflector",
 		"d": "Needle valve"
 	},
 	"correctAnswer": "c"
 }, {
 	"question": "The pressure of water is atmospheric and remains constant while passing over the runner in",
 	"answers": {
-		"a": "Impulse turbine",
-		"b": "Reaction turbine",
-		"c": "Steam turbine",
-		"d": "None of the above"
+	"a": "Impulse turbine",
+	"b": "Reaction turbine",
+	"c": "Steam turbine",
+	"d": "None of the above"
 	},
 	"correctAnswer": "a"
 }]

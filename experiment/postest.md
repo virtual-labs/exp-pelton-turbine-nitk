@@ -7,10 +7,10 @@ c. Low head. and low discharge<br>
 d. Medium head and medium discharge<br><br>
 
 Q 2. The unit discharge through the hydraulic turbine is<br>
-a. Q/√H<br>
+<b>a. Q/√H</b><br>
 b. Q/H<br>
 c. Q/H<sup>2</sup><br>
-<b>d. Q/H<sup>3/2</sup></b><br><br>
+d. Q/H<sup>3/2</sup><br><br>
 
 Q 3. Multiple jets are used in pelton wheel for<br>
 a. Increasing the power output with the same specific head<br>
@@ -21,7 +21,7 @@ c. Increasing the specific. speed with the same power output<br>
 Q 4. In an impulse turbine installation, excessive water hammer heads are avoided by using<br>
 a. Guide wheel<br>
 b. Brake nozzle<br>
-<b>c. Diffuser</b><br>
+<b>c. Deflector</b><br>
 d. Needle valve<br><br>
 
 Q 5. The pressure of water is atmospheric and remains constant while passing over the runner in<br>
