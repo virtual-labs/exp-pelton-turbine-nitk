@@ -26,5 +26,12 @@
   </tr>
 </table>
  
- 
+### Lagu paTa:
 
+ #### Simulation demo:
+ <li>Pelton Turbine - Constant Speed: <a href="https://youtu.be/pH3p51ouhqM">https://youtu.be/pH3p51ouhqM</a></li>
+ <li>Pelton Turbine - Constant Head: <a href="https://youtu.be/_UcaMvDzfwY">https://youtu.be/_UcaMvDzfwY</a></li>
+ 
+ #### Experimental demo:
+<li>Pelton Turbine - Constant Speed: <a href="https://youtu.be/Ywby9KLy4Hc">https://youtu.be/Ywby9KLy4Hc</a></li>
+<li>Pelton Turbine - Constant Head: <a href="https://youtu.be/CaZY33l9iqU">https://youtu.be/CaZY33l9iqU</a></li>
